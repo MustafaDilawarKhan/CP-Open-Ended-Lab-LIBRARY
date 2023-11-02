@@ -1,4 +1,4 @@
-Task 1: (Bibliotheca) Library System with Fine Calculation Feature
+Task: (Bibliotheca) Library System with Fine Calculation Feature
 Create a C++ program for a library system with the following features:
 1. Issue and Return: Users can borrow and return books. Implement a user-friendly
 interface for these operations.
