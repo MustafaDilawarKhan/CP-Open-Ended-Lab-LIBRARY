@@ -33,7 +33,7 @@ int main()
         if (days > 8)
         {
             fine = (days - 8) * 1;
-            cout << " You have to the fine of $" << fine << endl;
+            cout << " You have to pay the fine of $" << fine << endl;
 
         }
         else
